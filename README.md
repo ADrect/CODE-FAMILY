@@ -1,7 +1,7 @@
 # CODE-FAMILY
-Task 2
+Task 1
 
-Task 2 : Data Science library
+Task 1 : Data Science library
 
 Numpy:
 
